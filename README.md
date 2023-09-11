@@ -4,31 +4,19 @@
 
 <div dir="rtl">
   
-### اسم الطالب
+### Ahmed mohammed ali
 
 
-### اسم المشروع
+### Ahmedcinema
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+موقع لمشاهدة الافلام 
 
 
 # الأعمال المستقبلية
-
+اضافة بعض المسلسلات و  هيكل جديد للموقع بحيث لما تضغط على الصورة الفلم يوديك الى صفحة التشيغل للفلم 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
